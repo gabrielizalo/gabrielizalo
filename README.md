@@ -1,5 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/github-header.png" alt="Engineering the present. Learning the future." width="100%" />
+</p>
 
+# Gabriel Porras
 <!--
 **gabrielizalo/gabrielizalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

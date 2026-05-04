@@ -11,7 +11,17 @@
 ### Last Year
 
 <p align="center">
-  <img src="https://wakatime.com/share/@gabrielizalo/2582aa11-0e3c-42f7-94c0-636da8445962.png" width="750px" style="border-radius: 8px;" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://wakatime.com/share/@gabrielizalo/2582aa11-0e3c-42f7-94c0-636da8445962.png"
+    />
+    <img
+      src="https://wakatime.com/share/@gabrielizalo/c9d2cdf5-4891-4524-a265-d5d9e555a1bc.png"
+      alt="WakaTime coding activity over the last year"
+      width="750"
+    />
+  </picture>
 </p>
 
 <!--

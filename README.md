@@ -6,18 +6,18 @@
 
 `Full-Stack Web Platforms` · `TypeScript` · `React` · `Next.js` · `Node.js` · `SQL` · `AI Engineering` · `LLM Workflows` · `RAG`
 
-## Coding Activity
+## Coding Activity <a href="https://wakatime.com/@7c0dedb5-8204-43f5-b190-f4ffa186b212"><img src="https://wakatime.com/badge/user/7c0dedb5-8204-43f5-b190-f4ffa186b212.svg" alt="Total time coded since Aug 18 2022" /></a>
 
 ### Last Year
 
 <p align="center">
-  <figure><embed src="https://wakatime.com/share/@gabrielizalo/ebe5fe12-c2fc-4bbe-88f6-4cdb5e9f48cf.svg"></embed></figure>
+  <img src="https://wakatime.com/share/@gabrielizalo/c9d2cdf5-4891-4524-a265-d5d9e555a1bc.png" width="750px" />
 </p>
 
 ### Last 30 Days
 
 <p align="center">
-  <figure><embed src="https://wakatime.com/share/@gabrielizalo/f7ebbb2f-4ae8-4ad1-9728-37aa20373780.svg"></embed></figure>
+  <img src="https://wakatime.com/share/@gabrielizalo/8ef34440-9e6f-4eeb-b568-302a79af8cf1.png" width="750px" />
 </p>
 
 <!--

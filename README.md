@@ -11,7 +11,7 @@
 ### Last Year
 
 <p align="center">
-  <img src="https://wakatime.com/share/@gabrielizalo/2582aa11-0e3c-42f7-94c0-636da8445962.png" width="750px" />
+  <img src="https://wakatime.com/share/@gabrielizalo/2582aa11-0e3c-42f7-94c0-636da8445962.png" width="750px" style="border-radius: 8px;" />
 </p>
 
 <!--

@@ -14,13 +14,13 @@
   <img src="https://wakatime.com/share/@gabrielizalo/c9d2cdf5-4891-4524-a265-d5d9e555a1bc.png" width="750px" />
 </p>
 
+<!--
 ### Last 30 Days
 
 <p align="center">
   <img src="https://wakatime.com/share/@gabrielizalo/8ef34440-9e6f-4eeb-b568-302a79af8cf1.png" width="750px" />
 </p>
 
-<!--
 **gabrielizalo/gabrielizalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

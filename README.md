@@ -2,9 +2,13 @@
   <img src="./assets/github-header.png" alt="Engineering the present. Learning the future." width="100%" />
 </p>
 
+
 ## Focus
 
-`Full-Stack Web Platforms` · `TypeScript` · `React` · `Next.js` · `Node.js` · `SQL` · `AI Engineering` · `LLM Workflows` · `RAG`
+Full-stack developer working agent-first: I design, specify and review, and LLM agents write most of the code.
+
+`Full-Stack Web Platforms` · `AI Engineering` · `Agentic Development` · `TypeScript` · `React` · `Next.js` · `SolidJS` · `Node.js` · `Go` · `SQL`
+
 
 ## Coding Activity <a href="https://wakatime.com/@7c0dedb5-8204-43f5-b190-f4ffa186b212"><img src="https://wakatime.com/badge/user/7c0dedb5-8204-43f5-b190-f4ffa186b212.svg" alt="Total time coded since Aug 18 2022" /></a>
 
@@ -14,33 +18,30 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://wakatime.com/share/@gabrielizalo/2582aa11-0e3c-42f7-94c0-636da8445962.png"
+      srcset="https://wakatime.com/share/@gabrielizalo/d526c5d4-71d3-44f8-bed1-3b08eafe1072.png"
     />
     <img
-      src="https://wakatime.com/share/@gabrielizalo/c9d2cdf5-4891-4524-a265-d5d9e555a1bc.png"
+      src="https://wakatime.com/share/@gabrielizalo/d526c5d4-71d3-44f8-bed1-3b08eafe1072.png"
       alt="WakaTime coding activity over the last year"
       width="750"
     />
   </picture>
 </p>
 
-<!--
-### Last 30 Days
+### AI-Written Code
 
 <p align="center">
-  <img src="https://wakatime.com/share/@gabrielizalo/8ef34440-9e6f-4eeb-b568-302a79af8cf1.png" width="750px" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://wakatime.com/share/@gabrielizalo/adccf5e5-009a-4c10-b324-eec6a165ccd3.png"
+    />
+    <img
+      src="https://wakatime.com/share/@gabrielizalo/adccf5e5-009a-4c10-b324-eec6a165ccd3.png"
+      alt="Share of my code written by AI agents over the last year"
+      width="750"
+    />
+  </picture>
 </p>
 
-**gabrielizalo/gabrielizalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><sub>Since spring 2026, most of my code is written by AI agents that I direct, review and ship.</sub></p>
